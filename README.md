@@ -2,6 +2,7 @@
 Wrapper for [`youtube-dl`](https://rg3.github.io/youtube-dl/) for repeatedly archiving arbitrary searches
 
 Usage: `./youtube-archive.py [SEARCH OPTIONS] [-- [DOWNLOAD OPTIONS]]`
+
 `SEARCH OPTIONS` are passed to youtube-dl for finding videos
 `DOWNLOAD OPTIONS` are passed to youtube-dl when downloading a video
 
