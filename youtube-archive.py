@@ -7,7 +7,7 @@ ARGS_FILE_NAME = '.youtube-archive'
 
 USAGE = """\
 Usage: {0} [SEARCH OPTIONS] [-- [DOWNLOAD OPTIONS]]
-OPTIONS are passed to youtube-dl for finding videos
+SEARCH OPTIONS are passed to youtube-dl for finding videos
 DOWNLOAD OPTIONS are passed to youtube-dl when downloading a video
 
 Arguments are stored in """ + ARGS_FILE_NAME + """ in JSON format. To re-invoke
